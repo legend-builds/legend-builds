@@ -7,7 +7,7 @@ On-chain researcher and developer building secure, decentralized infrastructure 
 ### 🛠️ Core Tech Stack & Tools
 - **Languages:** Solidity, TypeScript, Python
 - **Frameworks:** Hardhat, Foundry, Viem
-- **Infrastructure:** Gnosis Safe Multi-Sig, Standard ERC Token Architectures
+- **Infrastructure:** Gnosis Safe Multi-Sig, Standard ERC Token Architectures.
 
 ### 📈 Current Web3 Focus
 - 🏗️ **Smart Contract Architecture:** Designing gas-optimized vaults and staking core logic.
